@@ -1,0 +1,113 @@
+body{
+
+  font-family: 'BioRhyme', serif !important;
+}
+#title{
+  background-color: lightblue;
+}
+h1{
+font-family: 'BioRhyme', serif !important;
+        font-size: 4.5rem !important;
+font-weight: 900 !important;
+  line-height: 1.5;
+}
+.container-fluid{
+
+  padding: 3% 10% !important;
+}
+.navbar#nav1{
+  padding: 0;
+  padding-bottom: 4.5rem;
+}
+.nav-item{
+  padding: 0 18px !important;
+
+}
+.nav-link{
+  font-size: 1.5rem;
+  color: white !important;
+}
+.navbar-brand{
+font-size: 2rem!important;
+}
+.dowload-btn{
+  margin: 5% 3% 5% 0;
+}
+.title-img{
+  justify-content: center;
+  margin-left: 20%;
+  width: 60%;
+  transform: rotate(20deg);
+}
+#features{
+  padding: 7% 10%;
+}
+.features-box{
+  text-align: center;
+  padding: 5%;
+}
+h3{
+  font-weight: 900!important;
+}
+p{
+  color: grey;
+}
+.icon{
+  color: red;
+  margin-bottom: 15px;
+}
+.icon:hover{
+  color:orange;
+}
+#testimonials{
+  background-color: lightblue;
+  text-align: center;
+}
+.carousel-item{
+
+  padding: 7% 10%;
+}
+h2{
+  font-size: 3rem !important;
+}
+.tt-img{
+  border-radius: 100%;
+  width: 10%;
+  margin: 50px 0 0 0;
+}
+#press{
+  text-align: center;
+  background-color: lightblue;
+  padding: 3%;
+}
+.onpress{
+  width: 15%;
+  margin: 20px 20px;
+}
+#pricing{
+  padding: 7% 10%;
+  text-align: center;
+}
+.pricing-col{
+  padding: 3% 2%;
+}
+.card-headed{
+  color: white;
+  text-align: center;
+  padding: 15px 10px 10px 5px ;
+}
+.cta-div{
+  background-color: lightblue;
+  padding: 7% 10%!important;
+  text-align: center;
+}
+#cta-h3{
+  margin-top: 7%;
+}
+.footer-div{
+  padding: 7% 10% !important;
+  text-align: center;
+}
+.icon-footer{
+  margin: 25px 20px;
+}
